@@ -45,7 +45,7 @@ This section includes case studies and projects delivered as part of my postgrad
 
 #### [EasyVisa](https://github.com/marcosyuki/EasyVisa) - **Visa Approval Prediction**
 * Bagging, Random Forest, Boosting.
-* 
+  
 #### [INN_Hotel](https://github.com/marcosyuki/INN_Hotel) - **Booking Cancellation Prediction**
 * Logistic Regression, Decision Tree.
 
