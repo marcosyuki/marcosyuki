@@ -36,14 +36,18 @@ These projects showcase my independent work, primarily focused on market analysi
 # Academic Projects:
 
 This section includes case studies and projects delivered as part of my postgraduate program in Data Science and Machine Learning:
-#### [INN_Hotel](https://github.com/marcosyuki/INN_Hotel) - **Booking Cancellation Prediction**
-* Logistic Regression, Decision Tree.
+
+#### [Trade_Ahead](https://github.com/marcosyuki/Trade_Ahead) - **Stock Clustering Analysis**
+* Unsupervised Learning, K-means Clustering, Hierarchical Clustering, PCA.
 
 #### [ReneWind](https://github.com/marcosyuki/ReneWind) - **Predictive Maintenance in Wind Energy**
 * Feature Engineering, Cross Validation, ML Pipeline, Hyperparameter Tuning.
 
 #### [EasyVisa](https://github.com/marcosyuki/EasyVisa) - **Visa Approval Prediction**
 * Bagging, Random Forest, Boosting.
+* 
+#### [INN_Hotel](https://github.com/marcosyuki/INN_Hotel) - **Booking Cancellation Prediction**
+* Logistic Regression, Decision Tree.
 
 #### [ReCell](https://github.com/marcosyuki/ReCell) - **Dynamic Pricing for Used Devices**
 * Supervised Learning, Linear Regression, Statistical Inference.
@@ -51,5 +55,4 @@ This section includes case studies and projects delivered as part of my postgrad
 #### [E_news](https://github.com/marcosyuki/E_news) - **Subscriber Acquisition Analysis**
 * A/B Testing, Hypothesis Testing, Inferential Statistics.
 
-#### [Trade_Ahead](https://github.com/marcosyuki/Trade_Ahead) - **Stock Clustering Analysis**
-* Unsupervised Learning, K-means Clustering, Hierarchical Clustering, PCA.
+
