@@ -1,3 +1,5 @@
+[Personal Projects](#Personal_Projects) · [Academic Projects](#Academic_Projects)
+
 # Personal Projects
 These projects showcase my independent work, primarily focused on market analysis and personal financial analytics. They reflect my exploration of data-driven strategies and insights in real-world scenarios:
 
@@ -33,7 +35,7 @@ These projects showcase my independent work, primarily focused on market analysi
 
 
 -----------------------------------------------
-# Academic Projects:
+# Academic Projects
 
 This section includes case studies and projects delivered as part of my postgraduate program in Data Science and Machine Learning:
 
