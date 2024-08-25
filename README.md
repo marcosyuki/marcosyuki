@@ -1,4 +1,4 @@
-[Personal Projects](#Personal_Projects) · [Academic Projects](#Academic_Projects)
+[Personal Projects](#Personal-Projects) · [Academic Projects](#Academic-Projects)
 
 # Personal Projects
 These projects showcase my independent work, primarily focused on market analysis and personal financial analytics. They reflect my exploration of data-driven strategies and insights in real-world scenarios:
